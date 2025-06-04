@@ -2,8 +2,10 @@
 
 ## Purpose
 
-This script import DNA sequencing data
-(Students must describe what the script does)
+This script imports DNA sequencing data. 
+It then calculates what proportion of neucleotide bases are either guanine och cytosine in each window of the DNA sequence.
+It then plots these proportions (y axis) by window (x-axis) conected by lines.
+Finally it saves this plot in /out/output.png
 
 ## Instructions for Running Code
 
