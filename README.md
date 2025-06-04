@@ -5,7 +5,7 @@
 This script imports DNA sequencing data. 
 It then calculates what proportion of neucleotide bases are either guanine och cytosine in each window of the DNA sequence.
 It then plots these proportions (y axis) by window (x-axis) conected by lines.
-Finally it saves this plot in /out/output.png
+Finally it saves this plot in "out/output.png"
 
 ## Instructions for Running Code
 To run the code install dependencies listed in environment.yaml
