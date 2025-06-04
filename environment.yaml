@@ -1,0 +1,10 @@
+---
+Name: gc_content-env
+Description: 
+Script: gc_content.py
+Dependencies: python 3.11.7, biopython, matplotlib
+Input: /data/fasta.fa
+Output: /out/output.png
+
+
+...

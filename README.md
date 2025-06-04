@@ -1,6 +1,8 @@
 # SC00041 GC Content
 
 ## Purpose
+
+This script import DNA sequencing data
 (Students must describe what the script does)
 
 ## Instructions for Running Code
