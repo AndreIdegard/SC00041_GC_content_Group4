@@ -8,13 +8,15 @@ It then plots these proportions (y axis) by window (x-axis) conected by lines.
 Finally it saves this plot in /out/output.png
 
 ## Instructions for Running Code
+To run the code install dependencies listed in environment.yaml
+
 
 ### Install dependencies
-(Students must create an `environment` and list dependencies)
+Dependencies of the script are listed in environment.yaml
 
 ### Run the script
 (Students must specify correct paths)
 #python gc_content.py data/sample.fasta output/gc_plot.png
 
 ## What output to expect
-(Students must describe what output to expect by running this code)
+The code outputs and saves a plot showing what proportion of nucleotide bases are either guanosine or cytosine in each window of the DNA sequence.
