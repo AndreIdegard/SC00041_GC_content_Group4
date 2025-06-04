@@ -9,7 +9,8 @@ Finally it saves this plot in "out/output.png"
 
 ## Instructions for Running Code
 To run the code install dependencies listed in environment.yaml
-Then paste the paths bellow in the terminal to run it.
+
+Then paste the paths bellow in the terminal to run the script.
 
 ### Install dependencies
 Dependencies of the script are listed in environment.yaml
