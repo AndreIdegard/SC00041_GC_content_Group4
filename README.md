@@ -16,6 +16,7 @@ Dependencies of the script are listed in environment.yaml
 
 ### Run the script
 Below is an example of how to run the code using the terninal. If the fasta.fa file is in a different directory the file path must be updated. Likewise if you wish to have the plot saved in a different directory (other than /out) please update the file path accordingly.
+
 `python3 gc_content.py data/fasta.fa out/output.png`
 
 ## What output to expect
